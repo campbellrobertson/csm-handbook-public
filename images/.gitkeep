@@ -1,0 +1,4 @@
+# Placeholder for images folder
+# Copy images from the source repo using:
+# git clone csm-handbook (source)
+# cp -r csm-handbook/images/* csm-handbook-public/images/
