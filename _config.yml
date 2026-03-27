@@ -1,0 +1,10 @@
+title: "CSM Handbook"
+description: "A practical handbook for building a lasting CSM practice."
+theme: minima
+
+baseurl: "/csm-handbook-public"
+url: "https://campbellrobertson.github.io"
+
+markdown: kramdown
+
+header_pages: []
